@@ -1,6 +1,6 @@
 # Super Encoder
 
-A Intermediate Javascript project
+An Intermediate Javascript project
 
 ## About
 
